@@ -324,5 +324,6 @@ void deposit_withdraw(int n, int option)
 void intro()
 {
     cout<<"\n\n\n\tBANK MANAGEMENT SYSTEM";
+    cout<<"Press ENTER to continue";
     cin.get();
 }
